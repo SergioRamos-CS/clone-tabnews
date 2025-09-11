@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Ola, mundo!</h1>;
+  return <h1>Dra Caroline Pequeño!</h1>;
 }
 export default Home;
