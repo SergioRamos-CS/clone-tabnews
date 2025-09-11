@@ -1,4 +1,4 @@
 function Home() {
-  return(Response.index.html);
+  return <h1>Ola, mundo!</h1>;
 }
 export default Home;
