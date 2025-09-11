@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Consultório Dra. Caroline Pequeño!</h1>;
+  return(Response.index.html);
 }
 export default Home;
